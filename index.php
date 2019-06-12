@@ -1,3 +1,5 @@
 <?php 
-	echo "hello wOOORD";
+	echo "hlo wOOORD";
+	
+	echo "teste";
  ?>
